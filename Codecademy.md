@@ -12,4 +12,4 @@ These are my lessons on codecademy:
 - Learn how to use API Youtube for JavaScript;
 - Learn hot to use API WePay for Python;
 
-Visit my profile on Codecademy.com : http://www.codecademy.com/devBlaster53048
+Visit my profile on Codecademy.com : http://www.codecademy.com/devBlaster53048.

@@ -6,3 +6,4 @@ These are my lessons on Python:
 - Python the Hard Way : http://learnpythonthehardway.org/book/;
 - Flask : http://flask.pocoo.org;
 - Django tutorial : https://docs.djangoproject.com/en/1.7/;
+- Book: Lightweight Django;
